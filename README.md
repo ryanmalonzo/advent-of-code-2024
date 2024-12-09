@@ -22,7 +22,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 
 - I challenge myself to implement the solutions using **only the Python standard library** so as to improve my knowledge and understanding of the language, while also developing problem-solving skills that can be applied to a wide range of situations.
 - I try to be as concise and efficient as possible, while not disregarding readability.
-- I do not use LLMs; only the Python documentation and StackOverflow.
+- I do not use LLMs; only the Python documentation, StackOverflow and the [Advent of Code subreddit](https://www.reddit.com/r/adventofcode/) if I am stuck, or just for the memes.
 
 ## 🏆 Progress
 
@@ -36,7 +36,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 6   | ✅     | ✅     |
 | 7   | ✅     | ✅     |
 | 8   | ✅     | ✅     |
-| 9   | ⏳     | ⏳     |
+| 9   | ✅     | ✅     |
 | 10  | ⏳     | ⏳     |
 | 11  | ⏳     | ⏳     |
 | 12  | ⏳     | ⏳     |
@@ -59,30 +59,30 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 > [!WARNING]  
 > The below section contains spoilers with possible approaches to solving the challenges, though other methods exist.
 
-| Day | Part 1                                                                                                        | Part 2                   |
-| --- | ------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| 1   |                                                                                                               | Only a 4-line difference |
-| 2   | _Reports_ can be sorted to check if _levels_ are gradually increasing or decreasing                           |                          |
-| 3   | Regular expressions and capturing groups                                                                      |                          |
-| 4   |                                                                                                               |                          |
-| 5   | Each _update_ operates on a directed acyclic graph, which gives the correct _page_ order to solve the problem | Only a 2-line difference |
-| 6   |                                                                                                               | Exhaustive search        |
-| 7   | `itertools.product` to get all possible operator combinations                                                 | Only a 3-line difference |
-| 8   | `itertools.combinations` to get all possible _antenna_ pairs                                                  |                          |
-| 9   |                                                                                                               |                          |
-| 10  |                                                                                                               |                          |
-| 11  |                                                                                                               |                          |
-| 12  |                                                                                                               |                          |
-| 13  |                                                                                                               |                          |
-| 14  |                                                                                                               |                          |
-| 15  |                                                                                                               |                          |
-| 16  |                                                                                                               |                          |
-| 17  |                                                                                                               |                          |
-| 18  |                                                                                                               |                          |
-| 19  |                                                                                                               |                          |
-| 20  |                                                                                                               |                          |
-| 21  |                                                                                                               |                          |
-| 22  |                                                                                                               |                          |
-| 23  |                                                                                                               |                          |
-| 24  |                                                                                                               |                          |
-| 25  |                                                                                                               |                          |
+| Day | Part 1                                                                                                        | Part 2                                                                   |
+| --- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 1   |                                                                                                               | Only a 4-line difference                                                 |
+| 2   | _Reports_ can be sorted to check if _levels_ are gradually increasing or decreasing                           |                                                                          |
+| 3   | Regular expressions and capturing groups                                                                      |                                                                          |
+| 4   |                                                                                                               |                                                                          |
+| 5   | Each _update_ operates on a directed acyclic graph, which gives the correct _page_ order to solve the problem | Only a 2-line difference                                                 |
+| 6   |                                                                                                               | Exhaustive search (also known as brute-force)                            |
+| 7   | `itertools.product` to get all possible operator combinations                                                 | Only a 3-line difference                                                 |
+| 8   | `itertools.combinations` to get all possible _antenna_ pairs                                                  |                                                                          |
+| 9   |                                                                                                               | Heaps with `heapq` to keep a sorted list of free space indices by length |
+| 10  |                                                                                                               |                                                                          |
+| 11  |                                                                                                               |                                                                          |
+| 12  |                                                                                                               |                                                                          |
+| 13  |                                                                                                               |                                                                          |
+| 14  |                                                                                                               |                                                                          |
+| 15  |                                                                                                               |                                                                          |
+| 16  |                                                                                                               |                                                                          |
+| 17  |                                                                                                               |                                                                          |
+| 18  |                                                                                                               |                                                                          |
+| 19  |                                                                                                               |                                                                          |
+| 20  |                                                                                                               |                                                                          |
+| 21  |                                                                                                               |                                                                          |
+| 22  |                                                                                                               |                                                                          |
+| 23  |                                                                                                               |                                                                          |
+| 24  |                                                                                                               |                                                                          |
+| 25  |                                                                                                               |                                                                          |
