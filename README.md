@@ -37,7 +37,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 7   | ✅     | ✅     |
 | 8   | ✅     | ✅     |
 | 9   | ✅     | ✅     |
-| 10  | ⏳     | ⏳     |
+| 10  | ✅     | ✅     |
 | 11  | ⏳     | ⏳     |
 | 12  | ⏳     | ⏳     |
 | 13  | ⏳     | ⏳     |
@@ -70,7 +70,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 7   | `itertools.product` to get all possible operator combinations                                                 | Only a 3-line difference                                                 |
 | 8   | `itertools.combinations` to get all possible _antenna_ pairs                                                  |                                                                          |
 | 9   |                                                                                                               | Heaps with `heapq` to keep a sorted list of free space indices by length |
-| 10  |                                                                                                               |                                                                          |
+| 10  | Recursion                                                                                                     | Accidentally wrote the code for it while trying to do part 1             |
 | 11  |                                                                                                               |                                                                          |
 | 12  |                                                                                                               |                                                                          |
 | 13  |                                                                                                               |                                                                          |
