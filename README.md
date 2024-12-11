@@ -38,7 +38,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 8   | ✅     | ✅     |
 | 9   | ✅     | ✅     |
 | 10  | ✅     | ✅     |
-| 11  | ⏳     | ⏳     |
+| 11  | ✅     | ✅     |
 | 12  | ⏳     | ⏳     |
 | 13  | ⏳     | ⏳     |
 | 14  | ⏳     | ⏳     |
@@ -71,7 +71,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 8   | `itertools.combinations` to get all possible _antenna_ pairs                                                  |                                                                          |
 | 9   |                                                                                                               | Heaps with `heapq` to keep a sorted list of free space indices by length |
 | 10  | Recursion                                                                                                     | Accidentally wrote the code for it while trying to do part 1             |
-| 11  |                                                                                                               |                                                                          |
+| 11  |                                                                                                               | Recursion + counter                                                      |
 | 12  |                                                                                                               |                                                                          |
 | 13  |                                                                                                               |                                                                          |
 | 14  |                                                                                                               |                                                                          |
