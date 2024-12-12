@@ -39,7 +39,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 9   | ✅     | ✅     |
 | 10  | ✅     | ✅     |
 | 11  | ✅     | ✅     |
-| 12  | ⏳     | ⏳     |
+| 12  | ✅     | ✅     |
 | 13  | ⏳     | ⏳     |
 | 14  | ⏳     | ⏳     |
 | 15  | ⏳     | ⏳     |
@@ -72,7 +72,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 9   |                                                                                                               | Heaps with `heapq` to keep a sorted list of free space indices by length |
 | 10  | Recursion                                                                                                     | Accidentally wrote the code for it while trying to do part 1             |
 | 11  |                                                                                                               | Recursion + counter                                                      |
-| 12  |                                                                                                               |                                                                          |
+| 12  | Breadth-first search (BFS)                                                                                    | Counting convex/concave corners                                          |
 | 13  |                                                                                                               |                                                                          |
 | 14  |                                                                                                               |                                                                          |
 | 15  |                                                                                                               |                                                                          |
