@@ -40,7 +40,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 10  | ✅     | ✅     |
 | 11  | ✅     | ✅     |
 | 12  | ✅     | ✅     |
-| 13  | ⏳     | ⏳     |
+| 13  | ✅     | ✅     |
 | 14  | ⏳     | ⏳     |
 | 15  | ⏳     | ⏳     |
 | 16  | ⏳     | ⏳     |
@@ -73,7 +73,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 10  | Recursion                                                                                                     | Accidentally wrote the code for it while trying to do part 1             |
 | 11  |                                                                                                               | Recursion + counter                                                      |
 | 12  | Breadth-first search (BFS)                                                                                    | Counting convex/concave corners                                          |
-| 13  |                                                                                                               |                                                                          |
+| 13  | [Cramer's rule](https://en.wikipedia.org/wiki/Cramer%27s_rule)                                                | Only a 1-line difference                                                 |
 | 14  |                                                                                                               |                                                                          |
 | 15  |                                                                                                               |                                                                          |
 | 16  |                                                                                                               |                                                                          |
