@@ -41,7 +41,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 11  | ✅     | ✅     |
 | 12  | ✅     | ✅     |
 | 13  | ✅     | ✅     |
-| 14  | ⏳     | ⏳     |
+| 14  | ✅     | ✅     |
 | 15  | ⏳     | ⏳     |
 | 16  | ⏳     | ⏳     |
 | 17  | ⏳     | ⏳     |
@@ -66,15 +66,15 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 3   | Regular expressions and capturing groups                                                                      |                                                                          |
 | 4   |                                                                                                               |                                                                          |
 | 5   | Each _update_ operates on a directed acyclic graph, which gives the correct _page_ order to solve the problem | Only a 2-line difference                                                 |
-| 6   |                                                                                                               | Exhaustive search (also known as brute-force)                            |
+| 6   |                                                                                                               | Exhaustive search                                                        |
 | 7   | `itertools.product` to get all possible operator combinations                                                 | Only a 3-line difference                                                 |
 | 8   | `itertools.combinations` to get all possible _antenna_ pairs                                                  |                                                                          |
 | 9   |                                                                                                               | Heaps with `heapq` to keep a sorted list of free space indices by length |
 | 10  | Recursion                                                                                                     | Accidentally wrote the code for it while trying to do part 1             |
 | 11  |                                                                                                               | Recursion + counter                                                      |
-| 12  | Breadth-first search (BFS)                                                                                    | Counting convex/concave corners                                          |
+| 12  | Breadth-first search (BFS)                                                                                    | Counting convex/concave angles                                           |
 | 13  | [Cramer's rule](https://en.wikipedia.org/wiki/Cramer%27s_rule)                                                | Only a 1-line difference                                                 |
-| 14  |                                                                                                               |                                                                          |
+| 14  |                                                                                                               | The christmas tree is formed when there are no _robots_ overlapping      |
 | 15  |                                                                                                               |                                                                          |
 | 16  |                                                                                                               |                                                                          |
 | 17  |                                                                                                               |                                                                          |
