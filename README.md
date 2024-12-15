@@ -42,7 +42,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 12  | ✅     | ✅     |
 | 13  | ✅     | ✅     |
 | 14  | ✅     | ✅     |
-| 15  | ⏳     | ⏳     |
+| 15  | ✅     | ✅     |
 | 16  | ⏳     | ⏳     |
 | 17  | ⏳     | ⏳     |
 | 18  | ⏳     | ⏳     |
@@ -75,7 +75,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 12  | Breadth-first search (BFS)                                                                                    | Counting convex/concave angles                                           |
 | 13  | [Cramer's rule](https://en.wikipedia.org/wiki/Cramer%27s_rule)                                                | Only a 1-line difference                                                 |
 | 14  |                                                                                                               | The christmas tree is formed when there are no _robots_ overlapping      |
-| 15  |                                                                                                               |                                                                          |
+| 15  |                                                                                                               | BFS                                                                      |
 | 16  |                                                                                                               |                                                                          |
 | 17  |                                                                                                               |                                                                          |
 | 18  |                                                                                                               |                                                                          |
