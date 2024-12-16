@@ -43,7 +43,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 13  | ✅     | ✅     |
 | 14  | ✅     | ✅     |
 | 15  | ✅     | ✅     |
-| 16  | ⏳     | ⏳     |
+| 16  | ✅     | ✅     |
 | 17  | ⏳     | ⏳     |
 | 18  | ⏳     | ⏳     |
 | 19  | ⏳     | ⏳     |
@@ -76,7 +76,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 13  | [Cramer's rule](https://en.wikipedia.org/wiki/Cramer%27s_rule)                                                | Only a 1-line difference                                                 |
 | 14  |                                                                                                               | The christmas tree is formed when there are no _robots_ overlapping      |
 | 15  |                                                                                                               | BFS                                                                      |
-| 16  |                                                                                                               |                                                                          |
+| 16  | [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)                                  |                                                                          |
 | 17  |                                                                                                               |                                                                          |
 | 18  |                                                                                                               |                                                                          |
 | 19  |                                                                                                               |                                                                          |
