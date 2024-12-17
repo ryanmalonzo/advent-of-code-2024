@@ -44,7 +44,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 14  | ✅     | ✅     |
 | 15  | ✅     | ✅     |
 | 16  | ✅     | ✅     |
-| 17  | ⏳     | ⏳     |
+| 17  | ✅     | ✅     |
 | 18  | ⏳     | ⏳     |
 | 19  | ⏳     | ⏳     |
 | 20  | ⏳     | ⏳     |
@@ -77,7 +77,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 14  |                                                                                                               | The christmas tree is formed when there are no _robots_ overlapping      |
 | 15  |                                                                                                               | BFS                                                                      |
 | 16  | [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)                                  |                                                                          |
-| 17  |                                                                                                               |                                                                          |
+| 17  |                                                                                                               | Depth-first search (DFS) + backtracking                                  |
 | 18  |                                                                                                               |                                                                          |
 | 19  |                                                                                                               |                                                                          |
 | 20  |                                                                                                               |                                                                          |
