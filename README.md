@@ -46,7 +46,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 16  | ✅     | ✅     |
 | 17  | ✅     | ✅     |
 | 18  | ✅     | ✅     |
-| 19  | ⏳     | ⏳     |
+| 19  | ✅     | ✅     |
 | 20  | ⏳     | ⏳     |
 | 21  | ⏳     | ⏳     |
 | 22  | ⏳     | ⏳     |
@@ -79,7 +79,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 16  | [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)                                  |                                                                          |
 | 17  |                                                                                                               | Depth-first search (DFS) + backtracking                                  |
 | 18  | Dijkstra's algorithm                                                                                          |                                                                          |
-| 19  |                                                                                                               |                                                                          |
+| 19  | [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)                                      |                                                                          |
 | 20  |                                                                                                               |                                                                          |
 | 21  |                                                                                                               |                                                                          |
 | 22  |                                                                                                               |                                                                          |
