@@ -47,7 +47,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 17  | ✅     | ✅     |
 | 18  | ✅     | ✅     |
 | 19  | ✅     | ✅     |
-| 20  | ⏳     | ⏳     |
+| 20  | ✅     | ✅     |
 | 21  | ⏳     | ⏳     |
 | 22  | ⏳     | ⏳     |
 | 23  | ⏳     | ⏳     |
@@ -80,7 +80,7 @@ In accordance with the rules of this event, my input files (`input.txt`) are not
 | 17  |                                                                                                               | Depth-first search (DFS) + backtracking                                  |
 | 18  | Dijkstra's algorithm                                                                                          |                                                                          |
 | 19  | [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)                                      |                                                                          |
-| 20  |                                                                                                               |                                                                          |
+| 20  | Dijkstra's algorithm + [Manhattan distance](https://en.wikipedia.org/wiki/Taxicab_geometry)                   | Only a one-character difference                                          |
 | 21  |                                                                                                               |                                                                          |
 | 22  |                                                                                                               |                                                                          |
 | 23  |                                                                                                               |                                                                          |
